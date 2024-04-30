@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan2</string>
+    <string name="show_toast">SHOW TOAST</string>
+    <string name="show_massage">SHOW MASSAGE</string>
+    <string name="input_massage">Input Massage</string>
+    <string name="show_message">SHOW MESSAGE</string>
+</resources>
